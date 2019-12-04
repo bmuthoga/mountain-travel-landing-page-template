@@ -5,4 +5,4 @@ The app can also be found here on [Codepen](https://codepen.io/bmuthoga/pen/oNgg
 
 Here's how the app looks like:
 
-<img src="https://i.ibb.co/9b8bwjC/mountain-travel-landing-template-preeeview.gif" width="300" height="200" />
+<img src="https://i.ibb.co/LrFY3Zq/mountain-travel-landing-page-template.gif" width="300" height="200" />
